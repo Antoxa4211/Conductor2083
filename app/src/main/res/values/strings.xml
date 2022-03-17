@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Гид Школы 2083</string>
+    <string name="by_hazza">by HAZZA</string>
+    <string name="next">ПРОДОЛЖИТЬ</string>
+    <string-array name="clasi">
+        <item>Выберите ваш класс</item>
+        <item>8М</item>
+        <item>8А</item>
+        <item>8Б</item>
+        <item>8В</item>
+        <item>8К</item>
+    </string-array>
+</resources>
